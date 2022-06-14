@@ -6,9 +6,9 @@
 - Откройте консоль
 - Введите по очереди следующие комманды
 
-> docker pull chechkysh/alpha_gif_course:1.0
+> docker pull chechkysh/alpha_gif_course:1.1
 
-> docker run -p 8081:8081 chechkysh/alpha_gif_course:1.0 java -jar build/libs/GifCourse-0.0.1-SNAPSHOT.jar'
+> docker run -p 8081:8081 chechkysh/alpha_gif_course:1.1 java -jar build/libs/GifCourse-0.0.1-SNAPSHOT.jar
 
 Если Докера нет:
 
